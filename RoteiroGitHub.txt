@@ -17,3 +17,10 @@ git pull
 git rm -r FOLDER
 git commit -m "deletei pasta"
 git push
+
+VOU MOVER UM ARQUIVO
+git pull
+git mv arq1 pasta/arq1
+git add *
+git commit -m "mudei arquivo de lugar"
+git push
