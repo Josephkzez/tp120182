@@ -1,3 +1,7 @@
+www.codecademy.com/learn/learn-git
+https://try.github.io/
+
+
 Tutorial GitHub:
 
 ATUALIZAR REPOSITORIO
@@ -11,3 +15,19 @@ git status
 git push
 git status
 git pull
+
+VOU FAZER ALTERACOES NO CODIGO
+checo se estou no branch master
+git branch
+CRIO UM BRANCH NOVO 
+git checkout -b hoje
+ALTERO OS ARQUIVOS
+git add *
+git commit -m "comitando arquivos no branch hoje"
+VOU PRO MASTER
+git checkout mater
+git merge hoje
+AI NAO PRECISA MAIS DAR COMMIT NEM ADD SO FALTA O PUSH
+git status
+ls
+git push
